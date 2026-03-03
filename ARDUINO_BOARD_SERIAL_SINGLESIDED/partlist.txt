@@ -1,0 +1,41 @@
+Partlist
+
+Exported from p2005-v2_3_squaredboard.brd at 2005-10-17 20:03:27 
+
+EAGLE Version 4.13r1 Copyright (c) 1988-2004 CadSoft
+
+Part     Value          Package      Library      Position (mil)        Orientation
+
+C1       100n           C050-025X075 rcl          (1702.906 1498.929)   R90
+C2       22p            C050-025X075 rcl          (1599.701 1499.024)   R270
+C3       22p            C050-025X075 rcl          (1500.441 1499.024)   R270
+C5       100n           C050-025X075 rcl          (1299.417 196.937)    R90
+C6       100u           E3,5-8       rcl          (1075.921 169.504)    R270
+C7       100u           E3,5-8       rcl          (746.063 169.26)      R270
+C8       10u            E5-6         rcl          (1098.252 1000.488)   R180
+D1       1N4004         DO41-10      diode        (1004.079 576.425)    R270
+D2       1N4148         DO35-10      diode        (1099.142 1701.173)   R180
+D3       1N4148         DO35-10      diode        (1099.142 1601.48)    R180
+DC1      DC21MMX        DC-21MM      powersupply  (275 375)             R90
+IC1      ATMEGA8        DIL28-3      atmel        (1850.441 645.283)    R180
+IC2                     78MXXS       v-reg        (650 600)             R90
+ICSP     ICSP           2X03         pinhead      (2555.512 1098.031)   R270
+J1                      1X08         pinhead      (2147.079 1999.079)   R180
+J2                      1X06         pinhead      (2251.197 101.079)    R0
+J3                      1X08         pinhead      (1287.205 2000.717)   R180
+LED1                    LED3MM       led          (702.362 1248.756)    R180
+POWER                   1X04         pinhead      (1647.425 104.079)    R0
+Q1                      QS           special      (1600.126 1200.283)   R180
+R1       4k7            0207/10      rcl          (1100.173 1199.181)   R180
+R2       220            0207/10      rcl          (1098.937 1299.843)   R0
+R3       1k             0207/10      rcl          (1100.268 1400.236)   R180
+R4       1k             0207/10      rcl          (1100 1500)           R0
+R5       10k            0207/10      rcl          (2099.386 1300.969)   R180
+R6       10k            0207/10      rcl          (2100.984 1400.819)   R180
+R7       10k            0207/10      rcl          (2101.984 1499.031)   R180
+R8       10k            0207/10      rcl          (2100.984 1599.268)   R180
+R9       10k            0207/10      rcl          (2100.079 1699.236)   R180
+S1                      B3F-10XX     switch-omron (2173.031 1067.472)   R0
+T1       BC547          TO92         transistor   (699.756 1466.031)    R0
+T2       BC557          TO92-EBC     transistor   (699.913 1050.307)    R0
+X1                      F09H         con-subd     (314.173 1455.906)    R90
