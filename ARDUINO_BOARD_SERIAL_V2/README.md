@@ -1,6 +1,6 @@
 ARDUINO LEGACY contains some of the most historical boards, rescued from old PCB files and prepared to be manufactured again.
 
-Here you will find all files to reproduce an original Arduino USB V1.0
+Here you will find all files to reproduce an original Arduino Serial V2.0
 
 Gerbers are generated and verified for manufacturing.
 
